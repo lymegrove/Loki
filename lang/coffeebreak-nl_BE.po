@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kjell Wullaert <kjell@ibiz.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: coffeebreak/archive.php:47
+#: coffeebreak/search.php:36
+msgid " Older Entries &raquo;"
+msgstr " Oudere reacties &raquo;"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "% Responses"
+msgstr "% Reacties"
+
+#. Text in function
+#: coffeebreak/archive.php:46
+#: coffeebreak/search.php:35
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Nieuwere artikels"
+
+#. Text in echo
+#: coffeebreak/404.php:5
+msgid "404 - Page Not Found"
+msgstr "404 - Pagina niet gevonden"
+
+#. Text in echo
+#: coffeebreak/header.php:11
+#: coffeebreak/header.php:12
+msgid "Archive"
+msgstr "Archief"
+
+#. Text in echo
+#: coffeebreak/archive.php:9
+msgid "Archive by Author"
+msgstr "Archief volgens auteur"
+
+#. Text in echo
+#: coffeebreak/archive.php:5
+#: coffeebreak/archive.php:6
+#: coffeebreak/archive.php:7
+msgid "Archive for"
+msgstr "Archief voor"
+
+#. Text in echo
+#: coffeebreak/archive.php:8
+msgid "Archive for the year"
+msgstr "Archief voor het jaar "
+
+#. Text in echo
+#: coffeebreak/archive.php:10
+msgid "Archives"
+msgstr "Archieven"
+
+#. Text in echo
+#: coffeebreak/header.php:8
+msgid "Author Archives"
+msgstr "Auteur archief"
+
+#. Text in echo
+#: coffeebreak/header.php:65
+msgid "Blog"
+msgstr "Blog"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:32
+#: coffeebreak/template-archives.php:35
+msgid "Categories"
+msgstr "Rubrieken"
+
+#. Text in echo
+#: coffeebreak/comments.php:48
+msgid "Comments are closed."
+msgstr "Je kan geen reactie schrijven."
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:219
+#: coffeebreak/includes/theme-widgets.php:277
+msgid "Enter your e-mail address"
+msgstr "Vul je email adres in"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:93
+msgid "Follow us on Twitter"
+msgstr "Volg ons via Twitter"
+
+#. Text in echo
+#: coffeebreak/header.php:62
+msgid "Home"
+msgstr "Home"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply"
+msgstr "Schrijf een reactie"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply to %s"
+msgstr "Schrijf een reactie op %s"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Log out of this account"
+msgstr "Deze account uitloggen"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logged in as"
+msgstr "Ingelogd als"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logout"
+msgstr "Uitloggen"
+
+#. Text in echo
+#: coffeebreak/comments.php:82
+msgid "Mail (will not be published)"
+msgstr "Mail (wordt niet gepubliceerd)"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:43
+msgid "Monthly Archives"
+msgstr "Archief per maand"
+
+#. Text in echo
+#: coffeebreak/comments.php:79
+msgid "Name"
+msgstr "Naam"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "No Responses"
+msgstr "Geen reacties"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "One Response"
+msgstr "Eén reactie"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:22
+msgid "Pages"
+msgstr "Pagina&quote;s"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:139
+msgid "Photos on"
+msgstr "Foto&quote;s op"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "Posted on"
+msgstr "Geschreven dd."
+
+#. Text in echo
+#: coffeebreak/header.php:7
+#: coffeebreak/search.php:5
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#. Text in echo
+#: coffeebreak/search-form.php:4
+msgid "Search..."
+msgstr "Zoeken..."
+
+#. Text in echo
+#: coffeebreak/archive.php:41
+#: coffeebreak/template-fullwidth.php:35
+#: coffeebreak/single.php:38
+#: coffeebreak/page.php:31
+#: coffeebreak/search.php:30
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, er zijn geen artikels gevonden die voldoen aan je zoekcriteria."
+
+#. Text in echo
+#: coffeebreak/comments.php:93
+msgid "Submit"
+msgstr "Verstuur"
+
+#. Text in echo
+#: coffeebreak/header.php:13
+msgid "Tag Archive"
+msgstr "Tag archief"
+
+#. Text in echo
+#: coffeebreak/archive.php:11
+msgid "Tag Archives:"
+msgstr "Tag archieven:"
+
+#. Text in echo
+#: coffeebreak/single.php:5
+msgid "The Blog"
+msgstr "De Blog"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:21
+msgid "The Last 30 Posts"
+msgstr "30 Meest recente artikels"
+
+#. Text in echo
+#: coffeebreak/404.php:18
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "De pagina die je zoekt bestaat niet of is verplaatst.  Gebruik de navigatie menus of het zoekformulier om te vinden wat je zoekt."
+
+#. Text in echo
+#: coffeebreak/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit artikel is beveiligd dmv. een paswoord.  Geef het paswoord in om de reacties te lezen."
+
+#. Text in echo
+#: coffeebreak/comments.php:33
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in echo
+#: coffeebreak/comments.php:85
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "You must be"
+msgstr "Je moet"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "by"
+msgstr "door"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "in"
+msgstr "in"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "logged in"
+msgstr "ingelogd zijn"
+
+#. Text in echo
+#: coffeebreak/comments.php:19
+msgid "to"
+msgstr "aan"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "to post a comment."
+msgstr "om een reactie te schrijven."
+
+#. Text in function
+#: coffeebreak/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt eerst nagelezen."
+

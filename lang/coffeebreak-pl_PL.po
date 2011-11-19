@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Przemyslaw Marczynski <marczynski@post.pl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: coffeebreak/archive.php:47
+#: coffeebreak/search.php:36
+#, fuzzy
+msgid " Older Entries &raquo;"
+msgstr "Starsze wpisy &raquo;"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+#, fuzzy
+msgid "% Responses"
+msgstr "% Komentarzy"
+
+#. Text in function
+#: coffeebreak/archive.php:46
+#: coffeebreak/search.php:35
+#, fuzzy
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Nowsze wpisy"
+
+#. Text in echo
+#: coffeebreak/404.php:5
+#, fuzzy
+msgid "404 - Page Not Found"
+msgstr "Błąd 404 - Nie znaleziono strony"
+
+#. Text in echo
+#: coffeebreak/header.php:11
+#: coffeebreak/header.php:12
+#, fuzzy
+msgid "Archive"
+msgstr "Archiwum"
+
+#. Text in echo
+#: coffeebreak/archive.php:9
+#, fuzzy
+msgid "Archive by Author"
+msgstr "Archiwum według autora"
+
+#. Text in echo
+#: coffeebreak/archive.php:5
+#: coffeebreak/archive.php:6
+#: coffeebreak/archive.php:7
+#, fuzzy
+msgid "Archive for"
+msgstr "Archiwum Tagów"
+
+#. Text in echo
+#: coffeebreak/archive.php:8
+#, fuzzy
+msgid "Archive for the year"
+msgstr "Komentarze do tego wpisu"
+
+#. Text in echo
+#: coffeebreak/archive.php:10
+#, fuzzy
+msgid "Archives"
+msgstr "Archiwum Autora"
+
+#. Text in echo
+#: coffeebreak/header.php:8
+#, fuzzy
+msgid "Author Archives"
+msgstr "Archiwum Autora"
+
+#. Text in echo
+#: coffeebreak/header.php:65
+#, fuzzy
+msgid "Blog"
+msgstr "Blog / Kategorie"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:32
+#: coffeebreak/template-archives.php:35
+#, fuzzy
+msgid "Categories"
+msgstr "Kategorie"
+
+#. Text in echo
+#: coffeebreak/comments.php:48
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Komentarze zostały zamknięte."
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:219
+#: coffeebreak/includes/theme-widgets.php:277
+msgid "Enter your e-mail address"
+msgstr "Wprowadź swój adres e-mail"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:93
+#, fuzzy
+msgid "Follow us on Twitter"
+msgstr "Śledź mnie na Twitterze"
+
+#. Text in echo
+#: coffeebreak/header.php:62
+#, fuzzy
+msgid "Home"
+msgstr "Główna"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+#, fuzzy
+msgid "Leave a Reply"
+msgstr "Skomentuj"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+#, fuzzy
+msgid "Leave a Reply to %s"
+msgstr "Odpowiedz do %s"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+#, fuzzy
+msgid "Log out of this account"
+msgstr "Wyloguj się z konta"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+#, fuzzy
+msgid "Logged in as"
+msgstr "Zalogowany jako"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+#, fuzzy
+msgid "Logout"
+msgstr "Wyloguj"
+
+#. Text in echo
+#: coffeebreak/comments.php:82
+#, fuzzy
+msgid "Mail (will not be published)"
+msgstr "E-mail (pozostanie ukryty)"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:43
+#, fuzzy
+msgid "Monthly Archives"
+msgstr "Archiwum według miesięcy"
+
+#. Text in echo
+#: coffeebreak/comments.php:79
+#, fuzzy
+msgid "Name"
+msgstr "Nazwisko"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+#, fuzzy
+msgid "No Responses"
+msgstr "Brak komentarzy"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+#, fuzzy
+msgid "One Response"
+msgstr "Jeden komentarz"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:22
+#, fuzzy
+msgid "Pages"
+msgstr "Strony"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:139
+#, fuzzy
+msgid "Photos on"
+msgstr "Zdjęcia na <span>Flick<span>r</span></span>"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+#, fuzzy
+msgid "Posted on"
+msgstr "wpisów w"
+
+#. Text in echo
+#: coffeebreak/header.php:7
+#: coffeebreak/search.php:5
+#, fuzzy
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#. Text in echo
+#: coffeebreak/search-form.php:4
+#, fuzzy
+msgid "Search..."
+msgstr "Szukaj"
+
+#. Text in echo
+#: coffeebreak/archive.php:41
+#: coffeebreak/template-fullwidth.php:35
+#: coffeebreak/single.php:38
+#: coffeebreak/page.php:31
+#: coffeebreak/search.php:30
+#, fuzzy
+msgid "Sorry, no posts matched your criteria."
+msgstr "Przykro nam, żaden wpis nie spełnia kryteriów wyszukiwania"
+
+#. Text in echo
+#: coffeebreak/comments.php:93
+#, fuzzy
+msgid "Submit"
+msgstr "Dodaj komentarz"
+
+#. Text in echo
+#: coffeebreak/header.php:13
+#, fuzzy
+msgid "Tag Archive"
+msgstr "Archiwum Tagów"
+
+#. Text in echo
+#: coffeebreak/archive.php:11
+#, fuzzy
+msgid "Tag Archives:"
+msgstr "Archiwa Tagów:"
+
+#. Text in echo
+#: coffeebreak/single.php:5
+#, fuzzy
+msgid "The Blog"
+msgstr "Blog / Kategorie"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:21
+#, fuzzy
+msgid "The Last 30 Posts"
+msgstr "Ostatnie 30 wpisów"
+
+#. Text in echo
+#: coffeebreak/404.php:18
+#, fuzzy
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Strona którą chcesz odwiedzić nie istnieje lub została usunięta. Użyj odnośników w menu bądź funkcji Szukaj, aby znaleźć to, czego potrzebujesz."
+
+#. Text in echo
+#: coffeebreak/comments.php:7
+#, fuzzy
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Wpis został zabezpieczony hasłem. Podaj hasło aby zobaczyć komentarze."
+
+#. Text in echo
+#: coffeebreak/comments.php:33
+#, fuzzy
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacki/Pingi"
+
+#. Text in echo
+#: coffeebreak/comments.php:85
+#, fuzzy
+msgid "Website"
+msgstr "Witryna"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+#, fuzzy
+msgid "You must be"
+msgstr "Musisz być"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+#, fuzzy
+msgid "by"
+msgstr "Zaprojektowane przez"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+#, fuzzy
+msgid "in"
+msgstr "zalogowany"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+#, fuzzy
+msgid "logged in"
+msgstr "zalogowany"
+
+#. Text in echo
+#: coffeebreak/comments.php:19
+#, fuzzy
+msgid "to"
+msgstr "do"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+#, fuzzy
+msgid "to post a comment."
+msgstr "aby zostawić komentarz"
+
+#. Text in function
+#: coffeebreak/includes/theme-comments.php:20
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuję na akceptację"
+

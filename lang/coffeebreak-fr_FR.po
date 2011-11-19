@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Wolforg <contact@wolforg.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: coffeebreak/archive.php:47
+#: coffeebreak/search.php:36
+msgid " Older Entries &raquo;"
+msgstr "&raquo; Articles plus Anciens"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "% Responses"
+msgstr "% Réponses"
+
+#. Text in function
+#: coffeebreak/archive.php:46
+#: coffeebreak/search.php:35
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Articles plus Récents"
+
+#. Text in echo
+#: coffeebreak/404.php:5
+msgid "404 - Page Not Found"
+msgstr "404 - Page Non Trouvée"
+
+#. Text in echo
+#: coffeebreak/header.php:11
+#: coffeebreak/header.php:12
+msgid "Archive"
+msgstr "Archive"
+
+#. Text in echo
+#: coffeebreak/archive.php:9
+msgid "Archive by Author"
+msgstr "Archive par Auteur"
+
+#. Text in echo
+#: coffeebreak/archive.php:5
+#: coffeebreak/archive.php:6
+#: coffeebreak/archive.php:7
+msgid "Archive for"
+msgstr "Archive pour"
+
+#. Text in echo
+#: coffeebreak/archive.php:8
+msgid "Archive for the year"
+msgstr "Archive pour l'Année"
+
+#. Text in echo
+#: coffeebreak/archive.php:10
+msgid "Archives"
+msgstr "Archives"
+
+#. Text in echo
+#: coffeebreak/header.php:8
+msgid "Author Archives"
+msgstr "Archive de l'Auteur"
+
+#. Text in echo
+#: coffeebreak/header.php:65
+msgid "Blog"
+msgstr "Blog"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:32
+#: coffeebreak/template-archives.php:35
+msgid "Categories"
+msgstr "Catégories"
+
+#. Text in echo
+#: coffeebreak/comments.php:48
+msgid "Comments are closed."
+msgstr "Commentaires clos."
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:219
+#: coffeebreak/includes/theme-widgets.php:277
+msgid "Enter your e-mail address"
+msgstr "Entrez votre addresse email"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:93
+msgid "Follow us on Twitter"
+msgstr "Nous suivre sur Twitter"
+
+#. Text in echo
+#: coffeebreak/header.php:62
+msgid "Home"
+msgstr "Accueil"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply"
+msgstr "Laisser une réponse"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply to %s"
+msgstr "Laisser une réponse pour %s"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Log out of this account"
+msgstr "Déconnexion de ce compte"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logged in as"
+msgstr "Coonecté en tant que"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logout"
+msgstr "Déconnexion"
+
+#. Text in echo
+#: coffeebreak/comments.php:82
+msgid "Mail (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:43
+msgid "Monthly Archives"
+msgstr "Archives Mensuelles"
+
+#. Text in echo
+#: coffeebreak/comments.php:79
+msgid "Name"
+msgstr "Nom"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "No Responses"
+msgstr "Pas de Réponses"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "One Response"
+msgstr "Une Réponse"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:22
+msgid "Pages"
+msgstr "Pages"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:139
+msgid "Photos on"
+msgstr "Photos le"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "Posted on"
+msgstr "Publié le"
+
+#. Text in echo
+#: coffeebreak/header.php:7
+#: coffeebreak/search.php:5
+msgid "Search Results"
+msgstr "Résultats de Recherche"
+
+#. Text in echo
+#: coffeebreak/search-form.php:4
+msgid "Search..."
+msgstr "Rechercher..."
+
+#. Text in echo
+#: coffeebreak/archive.php:41
+#: coffeebreak/template-fullwidth.php:35
+#: coffeebreak/single.php:38
+#: coffeebreak/page.php:31
+#: coffeebreak/search.php:30
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun article ne correspond à vos critères."
+
+#. Text in echo
+#: coffeebreak/comments.php:93
+msgid "Submit"
+msgstr "Envoyer"
+
+#. Text in echo
+#: coffeebreak/header.php:13
+msgid "Tag Archive"
+msgstr "Archive de Tag"
+
+#. Text in echo
+#: coffeebreak/archive.php:11
+msgid "Tag Archives:"
+msgstr "Archives de Tag :"
+
+#. Text in echo
+#: coffeebreak/single.php:5
+msgid "The Blog"
+msgstr "Le Blog"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:21
+msgid "The Last 30 Posts"
+msgstr "Les 30 Derniers Articles"
+
+#. Text in echo
+#: coffeebreak/404.php:18
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "La page que vous essayez d'atteindre n'existe pas ou a été déplacée. Utilisez les menus ou le moteur de recherche, svp."
+
+#. Text in echo
+#: coffeebreak/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par un mot de passe. Entrez le pour voir ses commentaires."
+
+#. Text in echo
+#: coffeebreak/comments.php:33
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in echo
+#: coffeebreak/comments.php:85
+msgid "Website"
+msgstr "Site web"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "You must be"
+msgstr "Vous devez être"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "by"
+msgstr "par"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "in"
+msgstr "dans"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "logged in"
+msgstr "connecté"
+
+#. Text in echo
+#: coffeebreak/comments.php:19
+msgid "to"
+msgstr "pour"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "to post a comment."
+msgstr "pour poster un commentaire."
+
+#. Text in function
+#: coffeebreak/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+

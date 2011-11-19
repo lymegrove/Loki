@@ -1,0 +1,21 @@
+<?php
+/* These are functions specific to this theme */
+require_once('includes/analytics.php');
+require_once('includes/deregisterPluginStyles.php');
+require_once('includes/jquery.php');
+require_once('includes/homebutton.php');
+require_once('includes/howdy.php');
+require_once('includes/dashboardWidgets.php');
+require_once('includes/noSelfPings.php');
+require_once('includes/adminUpdate.php');
+require_once('includes/reattach.php');
+require_once('includes/postWordCount.php');
+require_once('includes/browserdetect.php');
+//require_once('includes/customPostLoop.php');
+require_once('includes/menuAboveHeader.php');
+//require_once('includes/typography.php');
+//require_once('includes/customHeader.php');
+require_once('includes/removeCanonical.php');
+require_once('includes/cleanHead.php');
+require_once('includes/customOptionPanel.php');
+?>

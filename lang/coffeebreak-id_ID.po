@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ryan Riatno <ponzicrawl@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: coffeebreak/archive.php:47
+#: coffeebreak/search.php:36
+msgid " Older Entries &raquo;"
+msgstr "Tulisan-Tulisan Sebelumnya &raquo;"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "% Responses"
+msgstr "% Tanggapan"
+
+#. Text in function
+#: coffeebreak/archive.php:46
+#: coffeebreak/search.php:35
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Tulisan-Tulisan Selanjutnya"
+
+#. Text in echo
+#: coffeebreak/404.php:5
+msgid "404 - Page Not Found"
+msgstr "404 - Halaman Tidak Ditemukan"
+
+#. Text in echo
+#: coffeebreak/header.php:11
+#: coffeebreak/header.php:12
+msgid "Archive"
+msgstr "Arsip"
+
+#. Text in echo
+#: coffeebreak/archive.php:9
+msgid "Archive by Author"
+msgstr "Arsip berdasarkan Penulis"
+
+#. Text in echo
+#: coffeebreak/archive.php:5
+#: coffeebreak/archive.php:6
+#: coffeebreak/archive.php:7
+msgid "Archive for"
+msgstr "Arsip untuk"
+
+#. Text in echo
+#: coffeebreak/archive.php:8
+msgid "Archive for the year"
+msgstr "Arsip untuk tahunan"
+
+#. Text in echo
+#: coffeebreak/archive.php:10
+msgid "Archives"
+msgstr "Arsip"
+
+#. Text in echo
+#: coffeebreak/header.php:8
+msgid "Author Archives"
+msgstr "Arsip Penulis"
+
+#. Text in echo
+#: coffeebreak/header.php:65
+msgid "Blog"
+msgstr "Blog"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:32
+#: coffeebreak/template-archives.php:35
+msgid "Categories"
+msgstr "Kategori"
+
+#. Text in echo
+#: coffeebreak/comments.php:48
+msgid "Comments are closed."
+msgstr "Komentar telah ditutup."
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:219
+#: coffeebreak/includes/theme-widgets.php:277
+msgid "Enter your e-mail address"
+msgstr "Masukan Alamat E-Mail anda"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:93
+msgid "Follow us on Twitter"
+msgstr "Follow us on Twitter"
+
+#. Text in echo
+#: coffeebreak/header.php:62
+msgid "Home"
+msgstr "Beranda"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply"
+msgstr "Berikan Komentar"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply to %s"
+msgstr "Berikan komentar pada %s"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Log out of this account"
+msgstr "Keluar dari akun ini"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logged in as"
+msgstr "Masuk sebagai"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logout"
+msgstr "Keluar"
+
+#. Text in echo
+#: coffeebreak/comments.php:82
+msgid "Mail (will not be published)"
+msgstr "E-Mail (Tidak akan ditampilkan)"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:43
+msgid "Monthly Archives"
+msgstr "Arsip Bulanan"
+
+#. Text in echo
+#: coffeebreak/comments.php:79
+msgid "Name"
+msgstr "Nama"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "No Responses"
+msgstr "Tidak ada Tanggapan"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "One Response"
+msgstr "Satu Tanggapan"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:22
+msgid "Pages"
+msgstr "Halaman"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:139
+msgid "Photos on"
+msgstr "Foto-Foto pada"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "Posted on"
+msgstr "Ditulis pada"
+
+#. Text in echo
+#: coffeebreak/header.php:7
+#: coffeebreak/search.php:5
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#. Text in echo
+#: coffeebreak/search-form.php:4
+msgid "Search..."
+msgstr "Cari..."
+
+#. Text in echo
+#: coffeebreak/archive.php:41
+#: coffeebreak/template-fullwidth.php:35
+#: coffeebreak/single.php:38
+#: coffeebreak/page.php:31
+#: coffeebreak/search.php:30
+msgid "Sorry, no posts matched your criteria."
+msgstr "Maaf, tidak ada tulisan yang sesuai dengan kriteria pencarian anda."
+
+#. Text in echo
+#: coffeebreak/comments.php:93
+msgid "Submit"
+msgstr "Kirim"
+
+#. Text in echo
+#: coffeebreak/header.php:13
+msgid "Tag Archive"
+msgstr "Arsip Tag"
+
+#. Text in echo
+#: coffeebreak/archive.php:11
+msgid "Tag Archives:"
+msgstr "Arsip Tag:"
+
+#. Text in echo
+#: coffeebreak/single.php:5
+msgid "The Blog"
+msgstr "The Blog"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:21
+msgid "The Last 30 Posts"
+msgstr "30 Postingan terakhir"
+
+#. Text in echo
+#: coffeebreak/404.php:18
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Halaman yang anda cari tidak tersedia, atau telah dipindahkan. Silahkan gunakan menu atau kotak pencarian untuk proses pencarian."
+
+#. Text in echo
+#: coffeebreak/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tulisan ini dilindungi password. Masukkan password untuk melihat komentar."
+
+#. Text in echo
+#: coffeebreak/comments.php:33
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#. Text in echo
+#: coffeebreak/comments.php:85
+msgid "Website"
+msgstr "Website"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "You must be"
+msgstr "Anda harus menjadi"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "by"
+msgstr "oleh"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "in"
+msgstr "di dalam"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "logged in"
+msgstr "masuk"
+
+#. Text in echo
+#: coffeebreak/comments.php:19
+msgid "to"
+msgstr "untuk"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "to post a comment."
+msgstr "untuk memberikan komentar."
+
+#. Text in function
+#: coffeebreak/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar anda sedang dimoderasi."
+

@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Eduard Luhtonen <eduard.luhtonen@wippies.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#. Text in function
+#: coffeebreak/archive.php:47
+#: coffeebreak/search.php:36
+msgid " Older Entries &raquo;"
+msgstr " Старые записи &raquo;"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "% Responses"
+msgstr "% ответов"
+
+#. Text in function
+#: coffeebreak/archive.php:46
+#: coffeebreak/search.php:35
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Новые записи "
+
+#. Text in echo
+#: coffeebreak/404.php:5
+msgid "404 - Page Not Found"
+msgstr "404 - Страница не найдена"
+
+#. Text in echo
+#: coffeebreak/header.php:11
+#: coffeebreak/header.php:12
+msgid "Archive"
+msgstr "Архив"
+
+#. Text in echo
+#: coffeebreak/archive.php:9
+msgid "Archive by Author"
+msgstr "Архив, упорядоченный по авторам"
+
+#. Text in echo
+#: coffeebreak/archive.php:5
+#: coffeebreak/archive.php:6
+#: coffeebreak/archive.php:7
+msgid "Archive for"
+msgstr "Архив за"
+
+#. Text in echo
+#: coffeebreak/archive.php:8
+msgid "Archive for the year"
+msgstr "Архив за год"
+
+#. Text in echo
+#: coffeebreak/archive.php:10
+msgid "Archives"
+msgstr "Архивы"
+
+#. Text in echo
+#: coffeebreak/header.php:8
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#. Text in echo
+#: coffeebreak/header.php:65
+msgid "Blog"
+msgstr "Блог"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:32
+#: coffeebreak/template-archives.php:35
+msgid "Categories"
+msgstr "Разделы"
+
+#. Text in echo
+#: coffeebreak/comments.php:48
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:219
+#: coffeebreak/includes/theme-widgets.php:277
+msgid "Enter your e-mail address"
+msgstr "Введите адрес вашей электронной почты"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:93
+msgid "Follow us on Twitter"
+msgstr "Найти нас на сайте Twitter"
+
+#. Text in echo
+#: coffeebreak/header.php:62
+msgid "Home"
+msgstr "Главная"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply"
+msgstr "Написать ответ"
+
+#. Text in function
+#: coffeebreak/comments.php:60
+msgid "Leave a Reply to %s"
+msgstr "Написать ответ %s"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Log out of this account"
+msgstr "Выйти из данной учетной записи"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#. Text in echo
+#: coffeebreak/comments.php:74
+msgid "Logout"
+msgstr "Выйти"
+
+#. Text in echo
+#: coffeebreak/comments.php:82
+msgid "Mail (will not be published)"
+msgstr "Почта (не будет опубликовано)"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:43
+msgid "Monthly Archives"
+msgstr "Архив по месяцам"
+
+#. Text in echo
+#: coffeebreak/comments.php:79
+msgid "Name"
+msgstr "Имя"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "No Responses"
+msgstr "Ответов нет"
+
+#. Text in function
+#: coffeebreak/comments.php:19
+msgid "One Response"
+msgstr "1 ответ"
+
+#. Text in echo
+#: coffeebreak/template-sitemap.php:22
+msgid "Pages"
+msgstr "Старницы"
+
+#. Text in echo
+#: coffeebreak/includes/theme-widgets.php:139
+msgid "Photos on"
+msgstr "Фотографии на"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "Posted on"
+msgstr "Опубликовано на"
+
+#. Text in echo
+#: coffeebreak/header.php:7
+#: coffeebreak/search.php:5
+msgid "Search Results"
+msgstr "Результат поиска"
+
+#. Text in echo
+#: coffeebreak/search-form.php:4
+msgid "Search..."
+msgstr "Поиск..."
+
+#. Text in echo
+#: coffeebreak/archive.php:41
+#: coffeebreak/template-fullwidth.php:35
+#: coffeebreak/single.php:38
+#: coffeebreak/page.php:31
+#: coffeebreak/search.php:30
+msgid "Sorry, no posts matched your criteria."
+msgstr "Извините, записей, удовлетворяющих вашему запросу, не найдено."
+
+#. Text in echo
+#: coffeebreak/comments.php:93
+msgid "Submit"
+msgstr "Отправить"
+
+#. Text in echo
+#: coffeebreak/header.php:13
+msgid "Tag Archive"
+msgstr "Архив меток"
+
+#. Text in echo
+#: coffeebreak/archive.php:11
+msgid "Tag Archives:"
+msgstr "Архив меток:"
+
+#. Text in echo
+#: coffeebreak/single.php:5
+msgid "The Blog"
+msgstr "Блог"
+
+#. Text in echo
+#: coffeebreak/template-archives.php:21
+msgid "The Last 30 Posts"
+msgstr "Последние 30 сообщений"
+
+#. Text in echo
+#: coffeebreak/404.php:18
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Страница, которую вы пытались открыть не существует, либо была перемещена. Пожалуйста, используйте меню или окно поиска, чтобы найти то, что вы ищете."
+
+#. Text in echo
+#: coffeebreak/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#. Text in echo
+#: coffeebreak/comments.php:33
+msgid "Trackbacks/Pingbacks"
+msgstr "Трэкбэкс/Пингбэкс"
+
+#. Text in echo
+#: coffeebreak/comments.php:85
+msgid "Website"
+msgstr "Вебсайт"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "You must be"
+msgstr "Вы должны"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "by"
+msgstr "по"
+
+#. Text in echo
+#: coffeebreak/archive.php:33
+#: coffeebreak/single.php:25
+#: coffeebreak/search.php:22
+msgid "in"
+msgstr "в"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "logged in"
+msgstr "вы вошли в систему"
+
+#. Text in echo
+#: coffeebreak/comments.php:19
+msgid "to"
+msgstr "к"
+
+#. Text in echo
+#: coffeebreak/comments.php:67
+msgid "to post a comment."
+msgstr "чтобы оставить комментарий."
+
+#. Text in function
+#: coffeebreak/includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает утверждения."

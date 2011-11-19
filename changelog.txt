@@ -1,0 +1,20 @@
+CHANGELOG
+
+2.2 -----
+	new Options_Machine Class for generating options
+	font stacks
+	new icons for admin messages
+
+
+2.1 -----
+	nonces added
+	new icons
+	enable toggle to expand/shrink options 
+	consolidate 2 forms into one to remove invalid markup
+	
+
+2.0 forked from Thematic Options -----
+	serialize all theme options into 1 database entry
+	move the admin files to their own folder (seperate from the functions folder)
+	use constants for directories and other things that normally require get_bloginfo()
+

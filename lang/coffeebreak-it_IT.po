@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:48
+#: search.php:36
+#@ woothemes
+msgid " Older Entries &raquo;"
+msgstr " Articoli più vecchi &raquo;"
+
+#: comments.php:19
+#@ woothemes
+msgid "% Responses"
+msgstr "% Risposte"
+
+#: archive.php:47
+#: search.php:35
+#@ woothemes
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Articoli più recenti"
+
+#: 404.php:5
+#@ woothemes
+msgid "404 - Page Not Found"
+msgstr "404 - Impossibile trovare la pagina"
+
+#: header.php:11
+#: header.php:12
+#@ woothemes
+msgid "Archive"
+msgstr "Archivio"
+
+#: archive.php:10
+#@ woothemes
+msgid "Archive by Author"
+msgstr "Archivio per autore"
+
+#: archive.php:7
+#: archive.php:8
+#@ woothemes
+msgid "Archive for"
+msgstr "Archivio per"
+
+#: archive.php:9
+#@ woothemes
+msgid "Archive for the year"
+msgstr "Archivio per l'anno"
+
+#: archive.php:11
+#@ woothemes
+msgid "Archives"
+msgstr "Archivi"
+
+#: header.php:8
+#@ woothemes
+msgid "Author Archives"
+msgstr "Archivi Autore"
+
+#: archive.php:6
+#: header.php:80
+#@ woothemes
+msgid "Blog"
+msgstr "Blog"
+
+#: template-archives.php:35
+#: template-sitemap.php:32
+#@ woothemes
+msgid "Categories"
+msgstr "Categorie"
+
+#: comments.php:48
+#@ woothemes
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: includes/theme-widgets.php:340
+#: includes/theme-widgets.php:398
+#@ woothemes
+msgid "Enter your e-mail address"
+msgstr "Inserisci il tuo indirizzo e-mail"
+
+#: includes/theme-widgets.php:202
+#@ woothemes
+msgid "Follow us on Twitter"
+msgstr "Seguiteci su Twitter"
+
+#: header.php:77
+#@ woothemes
+msgid "Home"
+msgstr "Home"
+
+#: comments.php:60
+#@ woothemes
+msgid "Leave a Reply"
+msgstr "Lasci una risposta"
+
+#: comments.php:60
+#, php-format
+#@ woothemes
+msgid "Leave a Reply to %s"
+msgstr "Lascia una risposta a %s"
+
+#: comments.php:74
+#@ woothemes
+msgid "Log out of this account"
+msgstr "Esci dal tuo account"
+
+#: comments.php:74
+#@ woothemes
+msgid "Logged in as"
+msgstr "Collegato come"
+
+#: comments.php:74
+#@ woothemes
+msgid "Logout"
+msgstr "Logout"
+
+#: comments.php:82
+#@ woothemes
+msgid "Mail (will not be published)"
+msgstr "E-Mail (non sarà pubblicata)"
+
+#: template-archives.php:43
+#@ woothemes
+msgid "Monthly Archives"
+msgstr "Archivi mensili"
+
+#: comments.php:79
+#@ woothemes
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:19
+#@ woothemes
+msgid "No Responses"
+msgstr "Nessuna risposta"
+
+#: comments.php:19
+#@ woothemes
+msgid "One Response"
+msgstr "Una risposta"
+
+#: template-sitemap.php:22
+#@ woothemes
+msgid "Pages"
+msgstr "Pagine"
+
+#: includes/theme-widgets.php:247
+#@ woothemes
+msgid "Photos on"
+msgstr "Le foto presenti su"
+
+#: archive.php:34
+#: search.php:22
+#: single.php:24
+#@ woothemes
+msgid "Posted on"
+msgstr "Pubblicato "
+
+#: header.php:7
+#: search.php:5
+#@ woothemes
+msgid "Search Results"
+msgstr "Risultati della ricerca"
+
+#: search-form.php:4
+#: search-form2.php:4
+#@ woothemes
+msgid "Search..."
+msgstr "Cerca ..."
+
+#: archive.php:42
+#: page.php:31
+#: search.php:30
+#: single.php:37
+#: template-fullwidth.php:35
+#: template-portfolio.php:29
+#@ woothemes
+msgid "Sorry, no posts matched your criteria."
+msgstr "Spiacente, nessun post corrisponde ai tuoi criteri."
+
+#: comments.php:93
+#@ woothemes
+msgid "Submit"
+msgstr "Invia"
+
+#: header.php:13
+#@ woothemes
+msgid "Tag Archive"
+msgstr "Tag Archivio"
+
+#: archive.php:12
+#@ woothemes
+msgid "Tag Archives:"
+msgstr "Tag Archivi:"
+
+#: single.php:5
+#@ woothemes
+msgid "The Blog"
+msgstr "Blog"
+
+#: template-archives.php:21
+#@ woothemes
+msgid "The Last 30 Posts"
+msgstr "Gli ultimi 30 articoli"
+
+#: 404.php:18
+#@ woothemes
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "La pagina che stai cercando di raggiungere non esiste, o è stata spostata. Si prega di utilizzare il menù o la casella di ricerca per trovare ciò che stai cercando."
+
+#: comments.php:7
+#@ woothemes
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo post è protetto da password. Inserisci la password per visualizzare i commenti."
+
+#: comments.php:33
+#@ woothemes
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: comments.php:85
+#@ woothemes
+msgid "Website"
+msgstr "Sito web"
+
+#: comments.php:67
+#@ woothemes
+msgid "You must be"
+msgstr "Devi aver fatto"
+
+#: includes/theme-comments.php:20
+#@ woothemes
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: archive.php:34
+#: search.php:22
+#: single.php:24
+#@ woothemes
+msgid "by"
+msgstr "da"
+
+#: archive.php:34
+#: search.php:22
+#: single.php:24
+#@ woothemes
+msgid "in"
+msgstr "in"
+
+#: comments.php:67
+#@ woothemes
+msgid "logged in"
+msgstr "l'accesso"
+
+#: comments.php:19
+#@ woothemes
+msgid "to"
+msgstr "a"
+
+#: comments.php:67
+#@ woothemes
+msgid "to post a comment."
+msgstr "per inviare un commento."
+
+#: includes/theme-widgets.php:36
+#: includes/theme-widgets.php:90
+#: includes/theme-widgets.php:144
+#@ woothemes
+msgid "Latest News"
+msgstr "News & Foto più recenti"
+
+#: footer.php:7
+#: footer2.php:7
+#@ woothemes
+msgid "Left Footer Title"
+msgstr ""
+
+#: footer.php:8
+#: footer2.php:8
+#@ woothemes
+msgid "Left Footer Text"
+msgstr ""
+
+#: footer.php:14
+#: footer2.php:14
+#@ woothemes
+msgid "Right Footer Title"
+msgstr "Contatto"
+
+#: comments-legacy.php:61
+#@ woothemes
+msgid "at"
+msgstr "alle"
+

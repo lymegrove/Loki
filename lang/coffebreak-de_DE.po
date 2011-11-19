@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coffee Break v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-09-16 20:55+0100\n"
+"Last-Translator: WooThemes <info@woothemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ woothemes
+#: 404.php:5
+msgid "404 - Page Not Found"
+msgstr "404 - Seite nicht gefunden"
+
+#@ woothemes
+#: 404.php:18
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Die angeforderte Webseite ist nicht vorhanden oder wurde verschoben. Bitte benutzen Sie das Menü oder das Suchformular um die gewünschten Seiten zu suchen."
+
+#@ woothemes
+#: archive.php:5
+#: archive.php:6
+#: archive.php:7
+msgid "Archive for"
+msgstr "Archiv für"
+
+#@ woothemes
+#: archive.php:8
+msgid "Archive for the year"
+msgstr "Archiv für das Jahr"
+
+#@ woothemes
+#: archive.php:9
+msgid "Archive by Author"
+msgstr "Archiv nach Autoren"
+
+#@ woothemes
+#: archive.php:10
+msgid "Archives"
+msgstr "Archive"
+
+#@ woothemes
+#: archive.php:11
+msgid "Tag Archives:"
+msgstr "Tag Archive:"
+
+#@ woothemes
+#: archive.php:33
+#: search.php:22
+#: single.php:25
+msgid "Posted on"
+msgstr "Veröffentlicht am"
+
+#@ woothemes
+#: archive.php:33
+#: search.php:22
+#: single.php:25
+msgid "by"
+msgstr "von"
+
+#@ woothemes
+#: archive.php:33
+#: search.php:22
+#: single.php:25
+msgid "in"
+msgstr "in"
+
+#@ woothemes
+#: archive.php:41
+#: page.php:31
+#: search.php:30
+#: single.php:38
+#: template-fullwidth.php:35
+msgid "Sorry, no posts matched your criteria."
+msgstr "Leider entsprechen keine Beiträge Ihren Suchkriterien."
+
+#@ woothemes
+#: archive.php:46
+#: search.php:35
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Neuere Artikel"
+
+#@ woothemes
+#: archive.php:47
+#: search.php:36
+msgid " Older Entries &raquo;"
+msgstr " Ältere Artikel &raquo;"
+
+#@ woothemes
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist durch ein Passwort geschützt. Geben Sie bitte das Passwort für die Anzeige der Kommentare ein."
+
+#@ woothemes
+#: comments.php:19
+msgid "No Responses"
+msgstr "Keine Antworten"
+
+#@ woothemes
+#: comments.php:19
+msgid "One Response"
+msgstr "Eine Antwort"
+
+#@ woothemes
+#: comments.php:19
+msgid "% Responses"
+msgstr "% Antworten"
+
+#@ woothemes
+#: comments.php:19
+msgid "to"
+msgstr "auf"
+
+#@ woothemes
+#: comments.php:33
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#@ woothemes
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#@ woothemes
+#: comments.php:60
+msgid "Leave a Reply"
+msgstr "Schreiben Sie eine Antwort"
+
+#@ woothemes
+#: comments.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Schreiben Sie eine Antwort auf %s"
+
+#@ woothemes
+#: comments.php:67
+msgid "You must be"
+msgstr "Sie müssen"
+
+#@ woothemes
+#: comments.php:67
+msgid "logged in"
+msgstr "angemeldet sein"
+
+#@ woothemes
+#: comments.php:67
+msgid "to post a comment."
+msgstr "um einen Kommentar zu schreiben."
+
+#@ woothemes
+#: comments.php:74
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+#@ woothemes
+#: comments.php:74
+msgid "Log out of this account"
+msgstr "Als Benutzer abmelden"
+
+#@ woothemes
+#: comments.php:74
+msgid "Logout"
+msgstr "Abmelden"
+
+#@ woothemes
+#: comments.php:79
+msgid "Name"
+msgstr "Name"
+
+#@ woothemes
+#: comments.php:82
+msgid "Mail (will not be published)"
+msgstr "Email (wird nicht veröffentlicht)"
+
+#@ woothemes
+#: comments.php:85
+msgid "Website"
+msgstr "Website"
+
+#@ woothemes
+#: comments.php:93
+msgid "Submit"
+msgstr "Abschicken"
+
+#@ woothemes
+#: header.php:7
+#: search.php:5
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#@ woothemes
+#: header.php:8
+msgid "Author Archives"
+msgstr "Archive nach Autoren"
+
+#@ woothemes
+#: header.php:11
+#: header.php:12
+msgid "Archive"
+msgstr "Archive"
+
+#@ woothemes
+#: header.php:13
+msgid "Tag Archive"
+msgstr "Tag Archive"
+
+#@ woothemes
+#: header.php:71
+msgid "Home"
+msgstr "Home"
+
+#@ woothemes
+#: header.php:74
+msgid "Blog"
+msgstr "Blog"
+
+#@ woothemes
+#: search-form.php:4
+msgid "Search..."
+msgstr "Suchen..."
+
+#@ woothemes
+#: single.php:5
+msgid "The Blog"
+msgstr "Der Blog"
+
+#@ woothemes
+#: template-archives.php:21
+msgid "The Last 30 Posts"
+msgstr "Die letzten 30 Artikel"
+
+#@ woothemes
+#: template-archives.php:35
+#: template-sitemap.php:32
+msgid "Categories"
+msgstr "Kategorien"
+
+#@ woothemes
+#: template-archives.php:43
+msgid "Monthly Archives"
+msgstr "Monatliche Archive"
+
+#@ woothemes
+#: template-sitemap.php:22
+msgid "Pages"
+msgstr "Seiten"
+
+#@ woothemes
+#: includes/theme-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Freischaltung."
+
+#@ woothemes
+#: includes/theme-widgets.php:94
+msgid "Follow us on Twitter"
+msgstr "Folgen Sie uns auf Twitter"
+
+#@ woothemes
+#: includes/theme-widgets.php:139
+msgid "Photos on"
+msgstr "Fotos auf"
+
+#@ woothemes
+#: includes/theme-widgets.php:219
+#: includes/theme-widgets.php:277
+msgid "Enter your e-mail address"
+msgstr "Geben Sie bitte Ihre E-Mail-Adresse ein"
+
